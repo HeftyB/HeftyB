@@ -84,7 +84,7 @@ Hey My Name is Andrew Shields, I'm a graduate of Lambda School with a background
 
 <div align = "center">
 
-![HeftyB's Github Status](https://github-readme-stats.vercel.app/api?username=heftyb&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![HeftyB's Github Status](https://github-readme-stats.vercel.app/api?username=heftyb&show_icons=true&count_private=true&hide=stars&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 </div>
 <!--
