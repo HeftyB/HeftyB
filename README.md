@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a graduate of Lambda School with a background in sales. I am a tech enthusiast who has been building and repairing computers + electronics for 15+ years. I am always looking to learn something new!
+I'm a graduate of Lambda School with a background in sales. I am a tech enthusiast who has been building and repairing computers/electronics for 15+ years. I am always looking to learn something new!
 
 
 ## 𝗠𝘆 Main 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
