@@ -12,9 +12,7 @@ Looking for a junior or entry-level role in software development or systems admi
 
 **[SetGame](https://github.com/HeftyB/SetGame)** — Swift, SwiftUI. The card game Set, written for Stanford's CS193P in 2022.
 
-<!--
-**[Musical-Trainer](https://github.com/HeftyB/Musical-Trainer)** — Swift, SwiftUI, CoreMIDI. A macOS app that measures and trains musical timing from MIDI. Built with Claude Code, with 926 tests and self-hosted CI.
--->
+**[Musical-Trainer](https://github.com/HeftyB/Musical-Trainer)** — Swift, SwiftUI, CoreMIDI. A macOS app that measures and trains musical timing from MIDI. Claude Code wrote the code under my direction: I set the design and the rules, reviewed its 80+ pull requests, and gated its changes with 926 tests and CI on my self-hosted Gitea and Woodpecker.
 
 ## Infrastructure
 
