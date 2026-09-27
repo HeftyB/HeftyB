@@ -8,11 +8,11 @@ Looking for a junior or entry-level role in software development or systems admi
 
 **[DMS](https://github.com/HeftyB/DMS)** — Java 21, Spring Boot, SQL Server. Software for running an independent auto repair shop: customers and vehicles, repair orders, parts, appointment scheduling, timekeeping and invoicing. About 11,500 lines of Java that I wrote by hand, solo, between June 2024 and February 2025; that build is tagged [`v1.0-handwritten`](https://github.com/HeftyB/DMS/tree/v1.0-handwritten). The 2026 commits are a maintenance pass with Claude Code that added tests and CI and fixed bugs. They're attributed in the commit log, and the README separates the two.
 
+**[Musical-Trainer](https://github.com/HeftyB/Musical-Trainer)** — Swift, SwiftUI, CoreMIDI. A macOS app that measures and trains musical timing from MIDI. Claude Code wrote the code under my direction: I set the design and the rules, reviewed its 80+ pull requests, and gated its changes with 926 tests and CI on my self-hosted Gitea and Woodpecker.
+
 **[mdtools](https://github.com/HeftyB/mdtools)** — C. A native Markdown toolkit: CommonMark parser, print CLI and terminal reader. Built by directing Claude and Codex; the README covers how the output was verified.
 
 **[SetGame](https://github.com/HeftyB/SetGame)** — Swift, SwiftUI. The card game Set, written for Stanford's CS193P in 2022.
-
-**[Musical-Trainer](https://github.com/HeftyB/Musical-Trainer)** — Swift, SwiftUI, CoreMIDI. A macOS app that measures and trains musical timing from MIDI. Claude Code wrote the code under my direction: I set the design and the rules, reviewed its 80+ pull requests, and gated its changes with 926 tests and CI on my self-hosted Gitea and Woodpecker.
 
 ## Infrastructure
 
