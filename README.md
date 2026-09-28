@@ -2,7 +2,7 @@
 
 Software and systems generalist in Jacksonville, FL. I build applications and run the infrastructure under them: Java and Spring Boot at one end, Linux, Proxmox, ZFS and VLANs at the other.
 
-Looking for a junior or entry-level role in software development or systems administration.
+Looking for a role in software development or systems administration.
 
 ## Start here
 
